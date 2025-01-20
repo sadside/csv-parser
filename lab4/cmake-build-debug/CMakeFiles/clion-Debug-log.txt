@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/vadimkhalikov/Development/csv-parser/lab4 Select CMakeLists.txt
