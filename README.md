@@ -15,8 +15,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone <URL_вашего_репозитория>
-   cd <имя_папки_проекта>
+   git clone https://github.com/sadside/csv-parser
+   cd csv-parser
    ```
    
 2. Создайте директорию для сборки и перейдите в нее:
